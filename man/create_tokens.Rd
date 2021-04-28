@@ -51,7 +51,7 @@ not.}
 \item{child}{The children of the tokens.}
 
 \item{stylerignore}{Boolean to indicate if the line should be ignored by
-styler.}
+\{styler\}.}
 
 \item{block}{The block (of caching) to which the token belongs. An integer.}
 

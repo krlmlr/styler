@@ -10,7 +10,7 @@ for \verb{styler > 1.2.0}, some alignment is
 making stylerignore redundant. See a few illustrative examples below.
 }
 \details{
-Styling is on by default when you run styler.
+Styling is on by default when you run \{styler\}.
 \itemize{
 \item To mark the start of a sequence where you want to turn styling off, use
 \verb{# styler: off}.

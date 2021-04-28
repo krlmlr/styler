@@ -159,7 +159,7 @@ find_pos_id_to_keep <- function(pd) {
 #' [detected by styler](https://styler.r-lib.org/articles/detect-alignment.html),
 #' making stylerignore redundant. See a few illustrative examples below.
 #' @details
-#' Styling is on by default when you run styler.
+#' Styling is on by default when you run \{styler\}.
 #'
 #' - To mark the start of a sequence where you want to turn styling off, use
 #'   `# styler: off`.
