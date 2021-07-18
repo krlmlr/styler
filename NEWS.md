@@ -1,3 +1,9 @@
+# styler 1.5.1.9000 (Development version)
+
+* Don't break line before comments in pipes (#822).
+
+* Files with `.Rmarkdown` extension are now recognised as an R markdown files in `style_file()` and friends (#824)
+
 # styler 1.5.1
 
 ## Alignment detection
@@ -82,6 +88,19 @@
 * Don't test on R 3.3 anymore as tidyverse [supports only four previous
   releases](https://www.tidyverse.org/blog/2019/04/r-version-support/) (#804).
 * Update Github Actions workflow (#810).
+
+We’d like to thank everyone who has furthered the development of the latest 
+release of styler through their contributions in issues and pull requests:
+
+[&#x0040;ardydavari](https://github.com/ardydavari), 
+[&#x0040;gadenbuie](https://github.com/gadenbuie), [&#x0040;IndrajeetPatil](https://github.com/IndrajeetPatil), [&#x0040;jasonhan-vassar](https://github.com/jasonhan-vassar), [&#x0040;laresbernardo](https://github.com/laresbernardo), [&#x0040;lorenzwalthert](https://github.com/lorenzwalthert), [&#x0040;MichaelChirico](https://github.com/MichaelChirico), 
+[&#x0040;Moohan](https://github.com/Moohan), 
+[&#x0040;njtierney](https://github.com/njtierney), 
+[&#x0040;pat-s](https://github.com/pat-s),
+[&#x0040;psychelzh](https://github.com/psychelzh),
+[&#x0040;pvalders](https://github.com/pvalders), 
+[&#x0040;RoyalTS](https://github.com/RoyalTS), and 
+[&#x0040;russHyde](https://github.com/russHyde).
 
 # styler 1.4.1
 
